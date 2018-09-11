@@ -1,0 +1,24 @@
+{
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "description": "Node MongoDB Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujathak625/NodeMongo.git"
+  },
+  "author": "Sujatha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujathak625/NodeMongo/issues"
+  },
+  "homepage": "https://github.com/sujathak625/NodeMongo#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.1.4"
+  }
+}
